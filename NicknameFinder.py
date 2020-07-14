@@ -37,7 +37,8 @@ vh = {"YouTube": "youtube.com/user/",
 
 
 games = {"Steam": "steamcommunity.com/id/", "Ubisoft": "club.ubisoft.com/profile/", 
-"Chess": "www.chess.com/ru/member/", "Xbox": "account.xbox.com/profile?gamertag=", "Warface": "wfts.su/profile/"}
+"Chess": "www.chess.com/ru/member/", "Xbox": "account.xbox.com/profile?gamertag=", "Warface": "wfts.su/profile/",
+"Faceit": "www.faceit.com/ru/players/"}
 
 
 money = {"DonationAlerts": "www.donationalerts.com/r", "Qiwi": "qiwi.me/", "PayPal": "paypal.me/"}
