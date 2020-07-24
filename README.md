@@ -2,7 +2,13 @@
 OSINT tool for search by nickname
 
 Currently looking at 44  сайта
+
+
+
 How to use:
+
+
+
 
 git clone https://github.com/restanse/NicknameFinder.git
 
