@@ -1,0 +1,13 @@
+Github https://github.com/
+Ebay https://www.ebay.com/usr/ 
+Gitlab https://gitlab.com/
+AskFM https://ask.fm/
+PyPi https://pypi.org/user/
+Wikipedia https://wikipedia.org/wiki/user:
+Pastebin https://pastebin.com/u/
+Metacritic https://metacritic.com/user/
+OpenStreetMap https://www.openstreetmap.org/user/
+Pinboard https://pinboard.in/u:
+Pinkbike https://pinkbike.com/u/
+Seoclerks https://www.seoclerks.com/user/
+SoundCloud https://soundcloud.com/
