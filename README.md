@@ -1,7 +1,7 @@
 # NicknameFinder
 OSINT tool for search by nickname
 
-Currently looking at 45  сайта
+Currently looking at 45 sites
 
 
 
